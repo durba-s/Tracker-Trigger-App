@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "448951412910",
+    "firebase_url": "https://eeasylearn-f1696.firebaseio.com",
+    "project_id": "eeasylearn-f1696",
+    "storage_bucket": "eeasylearn-f1696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448951412910:android:a0de8b87055205a85f653f",
+        "android_client_info": {
+          "package_name": "com.example.eeasylearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448951412910-efck42ag9tn961r1qff37s8e1b3412ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6oWgtSnmv9K_gZP9FrZBi74b7t5gC9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448951412910-efck42ag9tn961r1qff37s8e1b3412ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448951412910:android:c2cfa5f0b349a2b75f653f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448951412910-efck42ag9tn961r1qff37s8e1b3412ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6oWgtSnmv9K_gZP9FrZBi74b7t5gC9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448951412910-efck42ag9tn961r1qff37s8e1b3412ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
