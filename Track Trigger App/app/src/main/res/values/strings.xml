@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="profession">Profession</string>
+    <string name="register">NEXT</string>
+    <string name="facebook_app_id">761781257885147</string>
+    <string name="fb_login_protocol_scheme">fb761781257885147</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="profile">Profile</string>
+    <string name="default_categories">Default Categories</string>
+    <string name="custom_categories">Custom Categories</string>
+    <string name="calender">Calender</string>
+    <string name="payment">Payment</string>
+    <string name="share">Share</string>
+    <string name="diary">Diary</string>
+    <string name="googlepay_button_content_description">Google Pay</string>
+    <string name="logout">logout</string>
+    <string name="rate_us">Rate us</string>
+    <string name="contact_us">Contact us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="slog">Manage all your tasks in one go</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="track_and_trigger">Track and Trigger</string>
+    <string name="instructions">Username must be 6-30 characters long and start with an alphabet, contain only alphabets,digits,underscores.
+        Password must be 8-10 characters long and contains atleast one digit,uppercase alphabet,lowercase alphabet,special characters and no space</string>
+    <string name="inventory">Inventory</string>
+    <string name="privPolicy">Track Trigger respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please delete your account immediately. We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted. COLLECTION OF YOUR INFORMATION We may collect information about you in a variety of ways. The information we may collect on the Site includes: Personal Data Personally identifiable information, such as your name, and telephone number, and demographic information, such as your profession, that you voluntarily give to us [when you register our mobile application, You are under no obligation to provide us with personal information of any kind, however your refusal to do so may prevent you from using certain features of our mobile application. Financial Data Financial information, such as data related to your payment method (e.g. valid credit card number, card brand, expiration date) that we may collect when you purchase, order, return, exchange, or request information about our our mobile application] [We store only very limited, if any, financial information that we collect. Otherwise, all financial information is stored by our payment processor google pay and you are encouraged to review their privacy policy and contact them directly for responses to your questions. Facebook Permissions The Site [and our mobile application] may by default access your Facebook basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, checkins, and likes, and you may choose to grant or deny us access to each individual permission. For more information regarding Facebook permissions, refer to the Facebook Permissions Reference page. Mobile Application Information If you connect using our mobile application: ● Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device’s [bluetooth, calendar, camera, contacts, microphone, reminders, sensors, SMS messages, social media accounts, storage,] and other features. If you wish to change our access or permissions, you may do so in your device’s settings. ● Push Notifications. We may request to send you push notifications regarding your account or the Application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings. USE OF YOUR INFORMATION Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Site [or our mobile application] to: ● Assist law enforcement and respond to subpoena. ● Compile anonymous statistical data and analysis for use internally or with third parties.
+        ● Create and manage your account.
+        ● Email you regarding your account or order.
+        ● Fulfill and manage purchases, orders, payments, and other transactions related to our mobile application.
+        ● Generate a personal profile about you to make future visits our mobile application more personalized.
+        ● Increase the efficiency and operation of our mobile application.
+        ● Perform other business activities as needed.
+        ● Prevent fraudulent transactions, monitor against theft, and protect against criminal activity.
+        ● Process payments and refunds. ● Request feedback and contact you about your use of our mobile application. .
+        ● Resolve disputes and troubleshoot problems.
+        ● Respond to product and customer service requests. DISCLOSURE OF YOUR INFORMATION We may share information we have collected about you in certain situations. Your information may be disclosed as follows:
+        By Law or to Protect Rights If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction.
+        Third-Party Service Providers We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance.
+        Marketing Communications With your consent, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law.
+        Affiliates We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
+        Business Partners We may share your information with our business partners to offer you certain products, services or promotions.</string>
+</resources>

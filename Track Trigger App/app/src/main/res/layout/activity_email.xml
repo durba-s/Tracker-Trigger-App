@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/whitebgd"
+    tools:context=".email">
+
+
+    <EditText
+        android:id="@+id/otppas"
+        android:layout_width="263dp"
+        android:layout_height="48dp"
+        android:background="@drawable/edit_text_bg"
+        android:backgroundTint="#FDFDFD"
+        android:ems="10"
+        android:hint="enter otp here"
+        android:inputType="textPersonName"
+        android:padding="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="340dp"
+        android:layout_height="107dp"
+        android:layout_marginTop="144dp"
+        android:background="@color/white"
+        android:backgroundTintMode="add"
+        android:fontFamily="@font/roboto"
+        android:padding="10dp"
+        android:text="Please enter the otp sent to your email address"
+        android:textColor="#27095E"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/otppas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/nextbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/otppas" />
+</androidx.constraintlayout.widget.ConstraintLayout>
