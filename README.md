@@ -1,5 +1,5 @@
 # Tracker-Trigger-App
-Features
+**Features**
 * Splash screen with animations
 * Login using google, facebook or sign up to create an account
 * OTP sent to both phone and email
