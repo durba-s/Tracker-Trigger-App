@@ -6,4 +6,4 @@ Features
 * Set reminders for tasks, assign priority to task
 * Add categories in inventory and items in each category along with images
 * Share inventory and task details via email, whatsapp
-Screenshots-[demo](https://www.google.com "Google's Homepage")
+* [demo](https://github.com/durba-s/Tracker-Trigger-App/blob/master/Demo.pdf)
